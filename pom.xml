@@ -96,6 +96,5 @@
 	<module>org.eclipse.wb.swt.feature_feature</module>
 	<module>org.eclipse.wb.xwt.feature_feature</module>
     </modules>
-
 </project> 
 
